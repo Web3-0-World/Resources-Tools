@@ -106,10 +106,11 @@ Store decentralized data securely with these blockchain-based storage solutions.
 Additional tools to help you with various aspects of Web3 development.
 
 1. **[The Graph](https://thegraph.com/)** - A decentralized protocol for indexing and querying data from blockchains.
-2. **[Alchemy](https://www.alchemy.com/)** - A blockchain development platform that provides a suite of developer tools and infrastructure.
-3. **[Moralis](https://moralis.io/)** - An easy-to-use Web3 backend infrastructure that enables dApp development.
-4. **[Dune Analytics](https://dune.com/)** - A platform for analyzing blockchain data using SQL.
-5. **[Zapper](https://zapper.fi/)** - A tool for tracking and managing DeFi investments in a single dashboard.
+2. **[ChartScout](https://chartscout.io/)** - Real-Time Detection. Scans 1,000+ pairs across 4 exchanges 24/7. Detects patterns instantly .
+3. **[Alchemy](https://www.alchemy.com/)** - A blockchain development platform that provides a suite of developer tools and infrastructure.
+4. **[Moralis](https://moralis.io/)** - An easy-to-use Web3 backend infrastructure that enables dApp development.
+5. **[Dune Analytics](https://dune.com/)** - A platform for analyzing blockchain data using SQL.
+6. **[Zapper](https://zapper.fi/)** - A tool for tracking and managing DeFi investments in a single dashboard.
 
 ---
 
